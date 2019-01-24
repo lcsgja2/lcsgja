@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="mp4" group-title="SouthPark",South Park T01-EP06
+http://svd.redecanais.download/RedeCanais/RCServer01/videos/STHPRKT01EP06.mp4
+
+#EXTINF:0 tvg-id="mp4" group-title="SouthPark",South Park T01-EP07
+http://svd.redecanais.download/RedeCanais/RCServer01/videos/STHPRKT01EP07.mp4
+
+#EXTINF:0 tvg-id="mp4" group-title="SouthPark",South Park T01-EP08
+http://svd.redecanais.download/RedeCanais/RCServer01/videos/STHPRKT01EP08.mp4
