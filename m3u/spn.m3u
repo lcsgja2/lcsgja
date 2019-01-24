@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="mp4" group-title="Supernatural",20
+http://svd.redecanais.download/RedeCanais/RCServer13/ondemand/SPNT13EP20.mp4
+#EXTINF:0 tvg-id="mp4" group-title="Supernatural",21
+http://svd.redecanais.download/RedeCanais/RCServer13/ondemand/SPNT13EP21.mp4
+#EXTINF:0 tvg-id="mp4" group-title="Supernatural",22
+http://svd.redecanais.download/RedeCanais/RCServer13/ondemand/SPNT13EP22.mp4
+#EXTINF:0 tvg-id="mp4" group-title="Supernatural",23
+http://svd.redecanais.download/RedeCanais/RCServer13/ondemand/SPNT13EP23.mp4
