@@ -8,5 +8,6 @@ http://sve-2.redecanais.download/RedeCanais/RCServer10/ondemand/SPNT14EP02.mp4
 http://sve-2.redecanais.download/RedeCanais/RCServer10/ondemand/SPNT14EP03.mp4
 #EXTINF:0 tvg-id="mp4" group-title="SupernaturalT14",04
 http://sve-2.redecanais.download/RedeCanais/RCServer10/ondemand/SPNT14EP04.mp4
-#EXTINF:0 tvg-id="mp4" group-title="Silent",silent
+
+#EXTINF:0 tvg-id="avi" group-title="FilmeRC",Silent Hill - Revelação
 http://sve.azureedge.net/RedeCanais/RCFServer1/ondemand/SLNTHLLRVLCAO.mp4
