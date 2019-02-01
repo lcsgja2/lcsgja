@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="avi" group-title="Meus Filmes",SilentHill-Revelação
+#EXTINF:-1 type="video" group-title="Meus Filmes",SilentHill-Revelação
 http://sve.azureedge.net/RedeCanais/RCFServer1/ondemand/SLNTHLLRVLCAO.mp4
