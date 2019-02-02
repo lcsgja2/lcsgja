@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 type="video" group-title="Meus Filmes",
+#EXTINF:-1 tvg-logo="https://www.altoastral.com.br/wp-content/uploads/2017/09/decoracao-com-posters-de-filmes-cinema.jpg" group-title="Meus Filmes",
 
 #EXTINF:-1 type="video" group-title="Meus Filmes",Filme
 http://
