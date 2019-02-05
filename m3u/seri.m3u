@@ -1,3 +1,4 @@
+#EXTM3U type="video"
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2VS11R" group-title="Seriado" pltv-subgroup="Breaking Bad",T01|EP01 Pilot
 http://svd.redecanais.download/RedeCanais/RCServer05/ondemand/BBT01EP01.mp4
